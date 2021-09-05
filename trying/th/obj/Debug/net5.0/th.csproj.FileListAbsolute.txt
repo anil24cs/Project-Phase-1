@@ -1,0 +1,16 @@
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.exe
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.deps.json
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.runtimeconfig.json
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.runtimeconfig.dev.json
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.dll
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\ref\th.dll
+C:\Users\11036847\source\repos\trying\th\bin\Debug\net5.0\th.pdb
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.csproj.AssemblyReference.cache
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.AssemblyInfoInputs.cache
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.AssemblyInfo.cs
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.csproj.CoreCompileInputs.cache
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.dll
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\ref\th.dll
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.pdb
+C:\Users\11036847\source\repos\trying\th\obj\Debug\net5.0\th.genruntimeconfig.cache
